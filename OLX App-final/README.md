@@ -6,5 +6,12 @@ Add  products
 ![Screenshot (297)](https://user-images.githubusercontent.com/81908636/124173629-ee399e80-dac8-11eb-85d4-de669e544448.png)
 
 
+view products from firebase to seller
+
+![Screenshot (295)](https://user-images.githubusercontent.com/81908636/124173683-fdb8e780-dac8-11eb-96f4-c4a1f15182db.png)
+
+authentication
+
+
 
 
