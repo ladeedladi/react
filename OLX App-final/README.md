@@ -12,6 +12,9 @@ view products from firebase to seller
 
 authentication
 
+![Screenshot (301)](https://user-images.githubusercontent.com/81908636/124174304-d3b3f500-dac9-11eb-8f00-7aa3043b0490.png)
+
+![Screenshot (300)](https://user-images.githubusercontent.com/81908636/124174331-db739980-dac9-11eb-8f48-a6e720ffa0fc.png)
 
 
 
